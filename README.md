@@ -23,4 +23,4 @@ You can also support me by minting one of my [Mirror articles NFTs](https://offi
 
 ##
 
-(👍 ͡❛ ͜ʖ ͡❛)👍
+(👍 ͡❛ ͜ʖ ͡❛)👍 Thank you! 
