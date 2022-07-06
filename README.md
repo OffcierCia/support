@@ -14,5 +14,11 @@ If you want to support my work, you can send me a donation to the address:
 
 ##
 
+- [Check out my Telegram Channel](https://t.me/officer_cia)
+- [Follow my Twitter](https://twitter.com/officer_cia)
+- [Track all my activities](https://t.me/officer_cia/296)
+- [All my Socials](https://t.me/officer_cia/296)
+
+##
 
 (👍 ͡❛ ͜ʖ ͡❛)👍
