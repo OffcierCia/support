@@ -12,7 +12,7 @@ If you want to support my work, you can send me a donation to the address:
 
 [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
 
-##
+#
 
 - [Check out my Telegram Channel](https://t.me/officer_cia)
 - [Follow my Twitter](https://twitter.com/officer_cia)
