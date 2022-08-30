@@ -42,6 +42,8 @@ User donations have been and still are my main source of income. It helps to avo
 
 I hope my tips have helped you make and save a lot of money! In our world of ruling Entropy, information means a lot and I give it to you for free. Also I want to remind all my enemies and haters that I'm just a writer and my nickname is just an attempt to make people aware of the safety issue. Call it a swan song or a cry from the heart, but I like what I do.
 
+I would like to let you know that I also do private orders for onchain investigations of hacks and incidents! Most of related cases ended successfully! For a small % of the returned funds or donation I will conduct an investigation for you, advise you on what further steps to take and send you to the right route! 
+
 Thank you very much. I am very happy and excited to help each and every one of you! Thank you so much for your support!
 
 
