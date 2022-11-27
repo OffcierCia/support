@@ -21,6 +21,10 @@ If you want to support my work, you can also send me a donation to the address:
 
 - **DQhux6WzyWb9MWWNTXKbHKAxBnAwDWa3iD** - Doge 
 
+- **0xC99201E9e0a5B61f83cc50965bFD3457c414fE62** - SHIB on ETH
+
+- **0xC99201E9e0a5B61f83cc50965bFD3457c414fE62** - SHIB on BSC
+
 - **TYWJoRenGB9JFD2QsdPSdrJtaT6CDoFQBN** - USDT TRX
 
 - **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
@@ -33,7 +37,7 @@ User donations have been and still are my main source of income. It helps to avo
 
 - [opensea.io/collection/regullion-collection](https://opensea.io/collection/regullion-collection)
 
-I hope my tips have helped you make and save a lot of money! In our world of ruling Entropy, information means a lot and I give it to you for free. Also I want to remind all my enemies and haters that I'm just a writer and my nickname is just an attempt to make people aware of the safety issue. Call it a swan song or a cry from the heart, but I like what I do.
+I hope my tips have helped you make and save a lot of money! In our world of ruling Entropy, information means a lot and I give it to you for free. Also I want to remind all my enemies and haters that I'm just a writer and my nickname is just an attempt to make people aware of the safety issue. Call it a swan song or a cry from the heart, but I like what I do. People think that I am at least 30 cold blooded men sitting in one building, while I’m a 24 year old geek guy chilling in my room 🤷‍♂️
 
 I would like to let you know that I also do private orders for onchain investigations of hacks and incidents! Most of related cases ended successfully! For a small % of the returned funds or donation I will conduct an investigation for you, advise you on what further steps to take and send you to the right route! 
 
