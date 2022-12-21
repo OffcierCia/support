@@ -2,6 +2,9 @@
 
 Support is **very** important to me, with it I can do what I love - educating DeFi & Crypto users :sparkling_heart: Dear friends... I want to thank everyone who sent me donations! 
 
+- [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
+- [My Blog on Medium](https://officercia.medium.com)
+
 The best thing is to support me directly by donating to my address on Ethereum Main-net or any of the compatible networks or to any address from the list below:
 
 [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
