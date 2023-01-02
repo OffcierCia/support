@@ -54,4 +54,4 @@ Thank you very much. I am very happy and excited to help each and every one of y
 
 ##
 
-(👍 ͡❛ ͜ʖ ͡❛)👍 Thank you! 
+**Thank you! Stay safe!**
