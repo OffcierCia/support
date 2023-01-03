@@ -34,6 +34,10 @@ If you want to support my work, you can also send me a donation to the address:
 
 - **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
 
+- [Binance Referral Link](https://accounts.binance.com/en/register?ref=165027618)
+
+- [Me on GitCoin](https://gitcoin.co/grants/3150/defi-developer-roadmap)
+
 - You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
 
 #
