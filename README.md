@@ -1,7 +1,5 @@
 ## Support Me:
 
-- **Disclaimer: All information (tools, links, articles, text, images, etc.) is provided for educational purposes only! All information is also based on data from public sources. You are solely responsible for your actions, not the author** ❗️
-
 Support is **very** important to me, with it I can do what I love - educating DeFi & Crypto users :sparkling_heart: Dear friends... I want to thank everyone who sent me donations! 
 
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
