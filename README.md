@@ -1,6 +1,6 @@
 ## Support Me:
 
-Support is **very** important to me, with it I can do what I love - educating DeFi & Crypto users :sparkling_heart: Dear friends... I want to thank everyone who sent me donations! 
+Support is **very** important to me, with it I can do what I love - educating DeFi & Crypto users!
 
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 - [My Blog on Medium](https://officercia.medium.com)
@@ -32,6 +32,8 @@ If you want to support my work, you can also send me a donation to the address:
 - [Me on GitCoin](https://gitcoin.co/grants/3150/defi-developer-roadmap)
 
 - You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
+
+ **Much much thanks every single one of you!**
 
 #
 
