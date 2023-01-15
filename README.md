@@ -11,7 +11,7 @@ Support is **very** important to me, with it I can do what I love - educating De
 
 -  If you need an awesome lawyer, head to [analybits.xyz](https://analybits.xyz) and [rata0x](https://twitter.com/rata0x)
 
-The best thing is to support me directly by donating to my address on Ethereum Main-net or any of the compatible networks or to any address from the list below:
+The best thing is to support me directly by donating to any address from the list below:
 
 [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
 
