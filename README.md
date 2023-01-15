@@ -5,10 +5,15 @@ Support is **very** important to me, with it I can do what I love - educating De
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 - [My Blog on Medium](https://officercia.medium.com)
 
+**Sponsored:**
+
+- Order the best code audits here: [pessimistic.io](https://pessimistic.io)
+
+-  If you need an awesome lawyer, head to [analybits.xyz](https://analybits.xyz) and [rata0x](https://twitter.com/rata0x)
+
 The best thing is to support me directly by donating to my address on Ethereum Main-net or any of the compatible networks or to any address from the list below:
 
 [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
-
 
 If you want to support my work, you can also send me a donation to the address:
 
@@ -18,17 +23,7 @@ If you want to support my work, you can also send me a donation to the address:
 
 - **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR 
 
-- **BLyXANAw7ciS2Abd8SsN1Rc8J4QZZiJdBzkoyqEuvPAB** - Solana
-
-- **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC 
-
-- **DQhux6WzyWb9MWWNTXKbHKAxBnAwDWa3iD** - Doge 
-
-- **0xC99201E9e0a5B61f83cc50965bFD3457c414fE62** - SHIB on ETH
-
-- **0xC99201E9e0a5B61f83cc50965bFD3457c414fE62** - SHIB on BSC
-
-- **TYWJoRenGB9JFD2QsdPSdrJtaT6CDoFQBN** - USDT TRX
+- **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC
 
 - **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
 
