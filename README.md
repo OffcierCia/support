@@ -5,12 +5,6 @@ Support is **very** important to me, with it I can do what I love - educating De
 - [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
 - [My Blog on Medium](https://officercia.medium.com)
 
-**Sponsored:**
-
-- Order the best code audits here: [pessimistic.io](https://pessimistic.io)
-
--  If you need an awesome lawyer, head to [analybits.xyz](https://analybits.xyz) and [rata0x](https://twitter.com/rata0x)
-
 The best thing is to support me directly by donating to any address from the list below:
 
 [![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
@@ -34,14 +28,6 @@ If you want to support my work, you can also send me a donation to the address:
 - You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
 
  **Much much thanks every single one of you!**
-
-#
-
-User donations have been and still are my main source of income. It helps to avoid affiliations and engagements. I really care about what I do and I'm glad you like it! You can also buy the works of my good friend and artist - all proceeds will go to create a book about blockchain with a unique design:
-
-- [opensea.io/collection/regullion-collection](https://opensea.io/collection/regullion-collection)
-
-Thank you very much. I am very happy and excited to help each and every one of you! Thank you so much for your support!
 
 
 #
