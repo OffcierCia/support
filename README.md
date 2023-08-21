@@ -7,10 +7,6 @@ Support is **very** important to me, with it I can do what I love - educating De
 
 The best thing is to support me directly by donating to any address from the list below:
 
-[![Supported by GitCoin](https://img.shields.io/badge/Support%20via-GitCoin-yellowgreen)](https://gitcoin.co/grants/3150/defi-developer-roadmap)
-
-If you want to support my work, you can also send me a donation to the address:
-
 - **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** — ERC20 & ETH [officercia.eth](https://etherscan.io/enslookup-search?search=officercia.eth)
 
 - **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** or **bc1q75zgp5jurtm96nltt9c9kzjnrt33uylr8uvdds** - BTC
@@ -20,10 +16,6 @@ If you want to support my work, you can also send me a donation to the address:
 - **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC
 
 - **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
-
-- [Binance Referral Link](https://accounts.binance.com/en/register?ref=165027618)
-
-- [Me on GitCoin](https://gitcoin.co/grants/3150/defi-developer-roadmap)
 
 - You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
 
