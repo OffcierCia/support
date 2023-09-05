@@ -1,34 +1,20 @@
-## Support Me:
+## Support
 
-Support is **very** important to me, with it I can do what I love - educating DeFi & Crypto users!
+### The best thing is to support me directly by donating to any address from the list below:
 
-- [My Blog on Mirror](https://officercia.mirror.xyz/UpFfG7-1E4SDJttnmuQ7v4BMc4KrCXzo80vtx7qV-YY)
-- [My Blog on Medium](https://officercia.medium.com)
 
-The best thing is to support me directly by donating to any address from the list below:
+- **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** or [officercia.eth](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A#tokentxns) — ERC20 & ETH;
 
-- **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** — ERC20 & ETH [officercia.eth](https://etherscan.io/enslookup-search?search=officercia.eth)
+- **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** or **bc1q75zgp5jurtm96nltt9c9kzjnrt33uylr8uvdds** - BTC;
 
-- **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** or **bc1q75zgp5jurtm96nltt9c9kzjnrt33uylr8uvdds** - BTC
+- [ZkBob](https://app.zkbob.com/transfer) Address: **zkbob_polygon:m4S2QfVNbACDPRuQuFC2AKXi7mimqM6Dv48v8hPProAcS6zASs4MuqnXA2TxTo** & **[ZkBob Payment Link](https://app.zkbob.com/payment/zkbob_polygon:SUQTKnMfkqRBMaGnkajdKgF8K8GNMptgvxQjTGwk7LKZk4UEEc7V6Aoz6fGrDQu)**;
 
-- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR 
+- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR;
 
-- **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC
+- **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC;
 
-- **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin
+- **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin;
 
 - You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
 
- **Much much thanks every single one of you!**
-
-
-#
-
-- [Check out my Telegram Channel](https://t.me/officer_cia)
-- [Follow my Twitter](https://twitter.com/officer_cia)
-- [Track all my activities](https://t.me/officer_cia/296)
-- [All my Socials](https://t.me/officer_cia/296)
-
-##
-
-**Thank you! Stay safe!**
+## **Thank you! Stay safe!**
