@@ -13,6 +13,12 @@
 
 - **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC;
 
+- **BLyXANAw7ciS2Abd8SsN1Rc8J4QZZiJdBzkoyqEuvPAB** - Solana, SOL;
+
+- **DQhux6WzyWb9MWWNTXKbHKAxBnAwDWa3iD** - DOGE;
+
+- **TYWJoRenGB9JFD2QsdPSdrJtaT6CDoFQBN** - TRX USDT;
+
 - **LebuhjAPJLnLULAKsMgQEZC5E5q9TdvurJ** - LiteCoin;
 
 - You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
