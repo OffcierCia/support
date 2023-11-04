@@ -3,9 +3,9 @@
 ### The best thing is to support me directly by donating to any address from the list below:
 
 
-- **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** or [officercia.eth](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A#tokentxns) — ERC20 & ETH;
+- **[0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A)** or [officercia.eth](https://etherscan.io/address/0xB25C5E8fA1E53eEb9bE3421C59F6A66B786ED77A#tokentxns) — Ethereum;
 
-- **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** or **bc1q75zgp5jurtm96nltt9c9kzjnrt33uylr8uvdds** - BTC;
+- **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** or **bc1q75zgp5jurtm96nltt9c9kzjnrt33uylr8uvdds** or **bc1p378ghr5k40tm2tw40m4lu4a680m8cfpqd7m6utx5d6p28e5xvnpsqs9f86** - Bitcoin;
 
 - [ZkBob](https://app.zkbob.com/transfer) Address: **zkbob_polygon:m4S2QfVNbACDPRuQuFC2AKXi7mimqM6Dv48v8hPProAcS6zASs4MuqnXA2TxTo** & **[ZkBob Payment Link](https://app.zkbob.com/payment/zkbob_polygon:SUQTKnMfkqRBMaGnkajdKgF8K8GNMptgvxQjTGwk7LKZk4UEEc7V6Aoz6fGrDQu)**;
 
