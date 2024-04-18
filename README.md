@@ -7,9 +7,7 @@
 
 - **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** or **bc1q75zgp5jurtm96nltt9c9kzjnrt33uylr8uvdds** or **bc1p378ghr5k40tm2tw40m4lu4a680m8cfpqd7m6utx5d6p28e5xvnpsqs9f86** - Bitcoin;
 
-- [ZkBob](https://app.zkbob.com/transfer) Address: **zkbob_polygon:m4S2QfVNbACDPRuQuFC2AKXi7mimqM6Dv48v8hPProAcS6zASs4MuqnXA2TxTo** & **[ZkBob Payment Link](https://app.zkbob.com/payment/zkbob_polygon:SUQTKnMfkqRBMaGnkajdKgF8K8GNMptgvxQjTGwk7LKZk4UEEc7V6Aoz6fGrDQu)**;
-
-- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - Monero XMR;
+- **[0zk1qydq9pg9m5x9qpa7ecp3gjauczjcg52t9z0zk7hsegq8yzq5f35q3rv7j6fe3z53l7za0lc7yx9nr08pj83q0gjv4kkpkfzsdwx4gunl0pmr3q8dj82eudk5d5v]** - Railgun;
 
 - **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC;
 
