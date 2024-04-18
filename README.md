@@ -7,7 +7,7 @@
 
 - **[17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU](https://blockchair.com/bitcoin/address/17Ydx9m7vrhnx4XjZPuGPMqrhw3sDviNTU)** or **bc1q75zgp5jurtm96nltt9c9kzjnrt33uylr8uvdds** or **bc1p378ghr5k40tm2tw40m4lu4a680m8cfpqd7m6utx5d6p28e5xvnpsqs9f86** - Bitcoin;
 
-- **[0zk1qydq9pg9m5x9qpa7ecp3gjauczjcg52t9z0zk7hsegq8yzq5f35q3rv7j6fe3z53l7za0lc7yx9nr08pj83q0gjv4kkpkfzsdwx4gunl0pmr3q8dj82eudk5d5v]** - Railgun;
+- **0zk1qydq9pg9m5x9qpa7ecp3gjauczjcg52t9z0zk7hsegq8yzq5f35q3rv7j6fe3z53l7za0lc7yx9nr08pj83q0gjv4kkpkfzsdwx4gunl0pmr3q8dj82eudk5d5v** - Railgun;
 
 - **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - ZenCash ZEC;
 
