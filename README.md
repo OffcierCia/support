@@ -13,6 +13,8 @@
 
 - **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - XMR (Monero);
 
+- **t1Tixh34p5FK9pMV4VYKzggP6qPbUwUabxx** - Zcash;
+
 - You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
 
 ## **Thank you! Stay safe!**
