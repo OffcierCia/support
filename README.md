@@ -11,6 +11,8 @@
 
 - **TYWJoRenGB9JFD2QsdPSdrJtaT6CDoFQBN** - TRX;
 
+- **4AhpUrDtfVSWZMJcRMJkZoPwDSdVG6puYBE3ajQABQo6T533cVvx5vJRc5fX7sktJe67mXu1CcDmr7orn1CrGrqsT3ptfds** - XMR (Monero);
+
 - You can also support me by minting one of my [Mirror articles NFTs](https://officercia.mirror.xyz/)!
 
 ## **Thank you! Stay safe!**
